@@ -8,7 +8,7 @@ npx hardhat node
 npx hardhat run --network localhost scripts/deploy.js
 ```
 
-On CLient Folder Run the following Command
+On SRC Folder Run the following Command
 ```shell
 npm start
 ```
